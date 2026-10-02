@@ -14,7 +14,7 @@ import LaunchIcon from "@mui/icons-material/Launch";
 const projects = [
   {
     title: "Bookstore E-Commerce Web App",
-    image: "/public/images/BookstoreImg.png",
+    image: "/images/BookstoreImg.png",
     points: [
       "Built a full-stack book marketplace with React, Node.js, Express and MongoDB.",
       "Implemented JWT authentication, Google sign-in and role-based admin access.",
@@ -36,7 +36,7 @@ const projects = [
   },
   {
     title: "Resume Builder",
-    image: "/public/images/ResumeImg.png",
+    image: "/images/ResumeImg.png",
     points: [
       "Built a multi-step resume form with live preview and PDF download.",
       "Implemented create, edit and delete of saved resumes through a REST API.",
@@ -55,7 +55,7 @@ const projects = [
   },
   {
     title: "Expense Tracker",
-    image: "/public/images/ExpenseTrackerImg.png",
+    image: "/images/ExpenseTrackerImg.png",
     points: [
       "Built a responsive web app to add, view and delete daily expenses by title, amount and category.",
       "Used browser Local Storage to keep expense data saved after page refresh, with no backend needed.",
