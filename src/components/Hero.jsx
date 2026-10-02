@@ -14,7 +14,7 @@ function Hero() {
   };
 
   const downloadResume = () => {
-    window.open("/public/Sona Shajahan-Resume-Full-Stack Developer.pdf", "_blank");
+    window.open("/Sona_Shajahan_Resume.pdf", "_blank");
   };
 
   return (
